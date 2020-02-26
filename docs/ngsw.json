@@ -1,0 +1,78 @@
+{
+  "configVersion": 1,
+  "timestamp": 1582750499054,
+  "index": "/tour-of-heroes/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/tour-of-heroes/favicon.ico",
+        "/tour-of-heroes/index.html",
+        "/tour-of-heroes/main-es2015.eaa315decccb091f6ac2.js",
+        "/tour-of-heroes/main-es5.8fc0490cbc561ff1af2c.js",
+        "/tour-of-heroes/polyfills-es2015.5728f680576ca47e99fe.js",
+        "/tour-of-heroes/polyfills-es5.7f43b971448d2fb49202.js",
+        "/tour-of-heroes/runtime-es2015.858f8dd898b75fe86926.js",
+        "/tour-of-heroes/runtime-es5.741402d1d47331ce975c.js",
+        "/tour-of-heroes/styles.09e2c710755c8867a460.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/tour-of-heroes/assets/icons/icon-128x128.png",
+        "/tour-of-heroes/assets/icons/icon-144x144.png",
+        "/tour-of-heroes/assets/icons/icon-152x152.png",
+        "/tour-of-heroes/assets/icons/icon-192x192.png",
+        "/tour-of-heroes/assets/icons/icon-384x384.png",
+        "/tour-of-heroes/assets/icons/icon-512x512.png",
+        "/tour-of-heroes/assets/icons/icon-72x72.png",
+        "/tour-of-heroes/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/tour-of-heroes/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/tour-of-heroes/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/tour-of-heroes/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/tour-of-heroes/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/tour-of-heroes/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/tour-of-heroes/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/tour-of-heroes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/tour-of-heroes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/tour-of-heroes/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/tour-of-heroes/index.html": "7715f55301a15324c85d3b2e43ba4fd1fe6519fa",
+    "/tour-of-heroes/main-es2015.eaa315decccb091f6ac2.js": "05310a54e99aac9bc3019182b34d40b972ab983c",
+    "/tour-of-heroes/main-es5.8fc0490cbc561ff1af2c.js": "cf4ad63e9f5be3158f3bdd93fb0d47685095b794",
+    "/tour-of-heroes/polyfills-es2015.5728f680576ca47e99fe.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "/tour-of-heroes/polyfills-es5.7f43b971448d2fb49202.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
+    "/tour-of-heroes/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/tour-of-heroes/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/tour-of-heroes/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
