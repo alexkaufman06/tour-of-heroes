@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587583317318,
+  "timestamp": 1588794654969,
   "index": "/tour-of-heroes/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/tour-of-heroes/favicon.ico",
         "/tour-of-heroes/index.html",
-        "/tour-of-heroes/main-es2015.b12d165d3d8a3d45df16.js",
-        "/tour-of-heroes/main-es5.b12d165d3d8a3d45df16.js",
+        "/tour-of-heroes/main-es2015.3d7091d957ef56b3b01f.js",
+        "/tour-of-heroes/main-es5.3d7091d957ef56b3b01f.js",
         "/tour-of-heroes/manifest.webmanifest",
         "/tour-of-heroes/polyfills-es2015.ca64e4516afbb1b890d5.js",
         "/tour-of-heroes/polyfills-es5.1d087d4db6b105875851.js",
         "/tour-of-heroes/runtime-es2015.0811dcefd377500b5b1a.js",
         "/tour-of-heroes/runtime-es5.0811dcefd377500b5b1a.js",
-        "/tour-of-heroes/styles.09e2c710755c8867a460.css"
+        "/tour-of-heroes/styles.4b28d5714165080e1058.css"
       ],
       "patterns": []
     },
@@ -85,15 +85,15 @@
     "/tour-of-heroes/assets/icons/manifest-icon-192.png": "5b534ae2341272b699609ecaf76ec9801afa6559",
     "/tour-of-heroes/assets/icons/manifest-icon-512.png": "ee694b6a2c431154c868a447fafdc40f29d13e66",
     "/tour-of-heroes/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/tour-of-heroes/index.html": "cb2cefa41ad0b1ebb99f48a9cdce8e636697895f",
-    "/tour-of-heroes/main-es2015.b12d165d3d8a3d45df16.js": "758a3c8ea42ab7d06bcd1104bebe9d04d1180eaa",
-    "/tour-of-heroes/main-es5.b12d165d3d8a3d45df16.js": "8f7ec302469f8d7a9b81fef04e2df43227f7cd91",
+    "/tour-of-heroes/index.html": "00f6bc98b569f2af4bb62e9bd5e3c55d00033dc8",
+    "/tour-of-heroes/main-es2015.3d7091d957ef56b3b01f.js": "80c9f0b17d309dd238b847263087120d84621bc2",
+    "/tour-of-heroes/main-es5.3d7091d957ef56b3b01f.js": "269775b7d81e58879f0df9919ae1a9cdc8b26292",
     "/tour-of-heroes/manifest.webmanifest": "c8b1fa779056a828a050328ab5fbf652e51df69c",
     "/tour-of-heroes/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/tour-of-heroes/polyfills-es5.1d087d4db6b105875851.js": "29c3dfd16faa921dd49165f318f9eed12a2f3be7",
     "/tour-of-heroes/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/tour-of-heroes/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/tour-of-heroes/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/tour-of-heroes/styles.4b28d5714165080e1058.css": "93b9c6ddc952ea9a692942ec4a9d80b1befdc89f"
   },
   "navigationUrls": [
     {
